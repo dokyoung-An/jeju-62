@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.0.6/20004
 // Filename: ????? 61.ggsk
-// Generated 2023-11-01T17:22:14
+// Generated 2023-11-01T17:36:51
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_mobilemenu', 2, false, { ignoreInState: 0  });
@@ -19952,10 +19952,10 @@ function pano2vrSkin(player,base) {
 				me.__1on1.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me.__1on1.style.transition='right 0s, top 0s, color 0s';
 				if (me.__1on1.ggCurrentLogicStateTextColor == 0) {
-					me.__1on1.style.color="rgba(104,77,172,1)";
+					me.__1on1.style.color="rgba(209,144,255,1)";
 				}
 				else if (me.__1on1.ggCurrentLogicStateTextColor == 1) {
-					me.__1on1.style.color="rgba(104,77,172,1)";
+					me.__1on1.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me.__1on1.style.color="rgba(255,255,255,1)";
@@ -20108,10 +20108,10 @@ function pano2vrSkin(player,base) {
 				me.__2on.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me.__2on.style.transition='right 0s, top 0s, color 0s';
 				if (me.__2on.ggCurrentLogicStateTextColor == 0) {
-					me.__2on.style.color="rgba(104,77,172,1)";
+					me.__2on.style.color="rgba(209,144,255,1)";
 				}
 				else if (me.__2on.ggCurrentLogicStateTextColor == 1) {
-					me.__2on.style.color="rgba(104,77,172,1)";
+					me.__2on.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me.__2on.style.color="rgba(255,255,255,1)";
@@ -20264,10 +20264,10 @@ function pano2vrSkin(player,base) {
 				me.__1on0.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me.__1on0.style.transition='right 0s, top 0s, color 0s';
 				if (me.__1on0.ggCurrentLogicStateTextColor == 0) {
-					me.__1on0.style.color="rgba(104,77,172,1)";
+					me.__1on0.style.color="rgba(209,144,255,1)";
 				}
 				else if (me.__1on0.ggCurrentLogicStateTextColor == 1) {
-					me.__1on0.style.color="rgba(104,77,172,1)";
+					me.__1on0.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me.__1on0.style.color="rgba(255,255,255,1)";
@@ -20420,10 +20420,10 @@ function pano2vrSkin(player,base) {
 				me.__1on.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me.__1on.style.transition='right 0s, top 0s, color 0s';
 				if (me.__1on.ggCurrentLogicStateTextColor == 0) {
-					me.__1on.style.color="rgba(104,77,172,1)";
+					me.__1on.style.color="rgba(209,144,255,1)";
 				}
 				else if (me.__1on.ggCurrentLogicStateTextColor == 1) {
-					me.__1on.style.color="rgba(104,77,172,1)";
+					me.__1on.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me.__1on.style.color="rgba(255,255,255,1)";
@@ -20576,10 +20576,10 @@ function pano2vrSkin(player,base) {
 				me._on2.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._on2.style.transition='right 0s, top 0s, color 0s';
 				if (me._on2.ggCurrentLogicStateTextColor == 0) {
-					me._on2.style.color="rgba(104,77,172,1)";
+					me._on2.style.color="rgba(209,144,255,1)";
 				}
 				else if (me._on2.ggCurrentLogicStateTextColor == 1) {
-					me._on2.style.color="rgba(104,77,172,1)";
+					me._on2.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me._on2.style.color="rgba(255,255,255,1)";
@@ -20732,10 +20732,10 @@ function pano2vrSkin(player,base) {
 				me._on1.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._on1.style.transition='right 0s, top 0s, color 0s';
 				if (me._on1.ggCurrentLogicStateTextColor == 0) {
-					me._on1.style.color="rgba(104,77,172,1)";
+					me._on1.style.color="rgba(209,144,255,1)";
 				}
 				else if (me._on1.ggCurrentLogicStateTextColor == 1) {
-					me._on1.style.color="rgba(104,77,172,1)";
+					me._on1.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me._on1.style.color="rgba(255,255,255,1)";
@@ -20888,10 +20888,10 @@ function pano2vrSkin(player,base) {
 				me._on0.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._on0.style.transition='right 0s, top 0s, color 0s';
 				if (me._on0.ggCurrentLogicStateTextColor == 0) {
-					me._on0.style.color="rgba(104,77,172,1)";
+					me._on0.style.color="rgba(209,144,255,1)";
 				}
 				else if (me._on0.ggCurrentLogicStateTextColor == 1) {
-					me._on0.style.color="rgba(104,77,172,1)";
+					me._on0.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me._on0.style.color="rgba(255,255,255,1)";
@@ -21101,10 +21101,10 @@ function pano2vrSkin(player,base) {
 				me.__1off2.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me.__1off2.style.transition='right 0s, top 0s, color 0s';
 				if (me.__1off2.ggCurrentLogicStateTextColor == 0) {
-					me.__1off2.style.color="rgba(104,77,172,1)";
+					me.__1off2.style.color="rgba(209,144,255,1)";
 				}
 				else if (me.__1off2.ggCurrentLogicStateTextColor == 1) {
-					me.__1off2.style.color="rgba(104,77,172,1)";
+					me.__1off2.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me.__1off2.style.color="rgba(255,255,255,1)";
@@ -21257,10 +21257,10 @@ function pano2vrSkin(player,base) {
 				me.__2off.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me.__2off.style.transition='right 0s, top 0s, color 0s';
 				if (me.__2off.ggCurrentLogicStateTextColor == 0) {
-					me.__2off.style.color="rgba(104,77,172,1)";
+					me.__2off.style.color="rgba(209,144,255,1)";
 				}
 				else if (me.__2off.ggCurrentLogicStateTextColor == 1) {
-					me.__2off.style.color="rgba(104,77,172,1)";
+					me.__2off.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me.__2off.style.color="rgba(255,255,255,1)";
@@ -21413,10 +21413,10 @@ function pano2vrSkin(player,base) {
 				me.__1off1.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me.__1off1.style.transition='right 0s, top 0s, color 0s';
 				if (me.__1off1.ggCurrentLogicStateTextColor == 0) {
-					me.__1off1.style.color="rgba(104,77,172,1)";
+					me.__1off1.style.color="rgba(209,144,255,1)";
 				}
 				else if (me.__1off1.ggCurrentLogicStateTextColor == 1) {
-					me.__1off1.style.color="rgba(104,77,172,1)";
+					me.__1off1.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me.__1off1.style.color="rgba(255,255,255,1)";
@@ -21569,10 +21569,10 @@ function pano2vrSkin(player,base) {
 				me.__1off0.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me.__1off0.style.transition='right 0s, top 0s, color 0s';
 				if (me.__1off0.ggCurrentLogicStateTextColor == 0) {
-					me.__1off0.style.color="rgba(104,77,172,1)";
+					me.__1off0.style.color="rgba(209,144,255,1)";
 				}
 				else if (me.__1off0.ggCurrentLogicStateTextColor == 1) {
-					me.__1off0.style.color="rgba(104,77,172,1)";
+					me.__1off0.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me.__1off0.style.color="rgba(255,255,255,1)";
@@ -21725,10 +21725,10 @@ function pano2vrSkin(player,base) {
 				me._off3.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._off3.style.transition='right 0s, top 0s, color 0s';
 				if (me._off3.ggCurrentLogicStateTextColor == 0) {
-					me._off3.style.color="rgba(104,77,172,1)";
+					me._off3.style.color="rgba(209,144,255,1)";
 				}
 				else if (me._off3.ggCurrentLogicStateTextColor == 1) {
-					me._off3.style.color="rgba(104,77,172,1)";
+					me._off3.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me._off3.style.color="rgba(255,255,255,1)";
@@ -21881,10 +21881,10 @@ function pano2vrSkin(player,base) {
 				me._off2.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._off2.style.transition='right 0s, top 0s, color 0s';
 				if (me._off2.ggCurrentLogicStateTextColor == 0) {
-					me._off2.style.color="rgba(104,77,172,1)";
+					me._off2.style.color="rgba(209,144,255,1)";
 				}
 				else if (me._off2.ggCurrentLogicStateTextColor == 1) {
-					me._off2.style.color="rgba(104,77,172,1)";
+					me._off2.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me._off2.style.color="rgba(255,255,255,1)";
@@ -22037,10 +22037,10 @@ function pano2vrSkin(player,base) {
 				me._off1.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._off1.style.transition='right 0s, top 0s, color 0s';
 				if (me._off1.ggCurrentLogicStateTextColor == 0) {
-					me._off1.style.color="rgba(104,77,172,1)";
+					me._off1.style.color="rgba(209,144,255,1)";
 				}
 				else if (me._off1.ggCurrentLogicStateTextColor == 1) {
-					me._off1.style.color="rgba(104,77,172,1)";
+					me._off1.style.color="rgba(209,144,255,1)";
 				}
 				else {
 					me._off1.style.color="rgba(255,255,255,1)";
@@ -24845,7 +24845,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._type2.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("41 TYPE", params);
+			var hs = player._("61 TYPE", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -25536,7 +25536,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._type2kor4.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("41 TYPE", params);
+			var hs = player._("61 TYPE", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -26142,7 +26142,7 @@ function pano2vrSkin(player,base) {
 		hs ='';
 		hs+='background : #ffffff;';
 		hs+='border : 0px solid #000000;';
-		hs+='color : rgba(104,77,172,1);';
+		hs+='color : rgba(0,0,0,1);';
 		hs+='cursor : default;';
 		hs+='height : 100%;';
 		hs+='left : 10px;';
@@ -26207,10 +26207,10 @@ function pano2vrSkin(player,base) {
 				me._kor.ggCurrentLogicStateTextColor = newLogicStateTextColor;
 				me._kor.style.transition='color 0s';
 				if (me._kor.ggCurrentLogicStateTextColor == 0) {
-					me._kor.style.color="rgba(250,205,0,1)";
+					me._kor.style.color="rgba(104,77,172,1)";
 				}
 				else {
-					me._kor.style.color="rgba(104,77,172,1)";
+					me._kor.style.color="rgba(0,0,0,1)";
 				}
 			}
 		}
@@ -27572,7 +27572,7 @@ function pano2vrSkin(player,base) {
 		els.setAttribute('style',hs);
 		me._type2offkor1.ggUpdateText=function() {
 			var params = [];
-			var hs = player._("\uc8fc\ubc29\n\n", params);
+			var hs = player._("\uc8fc\ubc29\n", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
